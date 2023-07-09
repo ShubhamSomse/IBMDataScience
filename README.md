@@ -1,3 +1,3 @@
 # IBMDataScience
-This is course certificate
-It have Jupyter file for Evaluation.
+This is a course certificate.
+It has a Jupyter file for Evaluation.
